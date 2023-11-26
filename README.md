@@ -24,3 +24,5 @@ Submit a pull request with a clear description of your changes.
 Feel free to open an issue if you have any bugs or suggestions.
 Join the discussions to share your insights or ask questions about the project.
 
+## Author 
+This project is done by Ibrahim Abdelnasar
